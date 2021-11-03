@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T14:55:52.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.6.8" etag="cNoP2ALDu39OwpihcSNT" type="github"><diagram id="L9dXJP6coQefPHH2Y3Vy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-03T16:01:25.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="4v0q-qTEXHO1wBqTWaNg" version="15.6.8" type="github">
+  <diagram id="L9dXJP6coQefPHH2Y3Vy" name="Page-1">
+    <mxGraphModel dx="2616" dy="1700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-8" value="Start" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-402" width="92" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-9" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-8" target="SS2gHfgqcStgeZ63Fi3H-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="-160" as="sourcePoint" />
+            <mxPoint x="180.9949999999999" y="-315.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-32" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-16" target="SS2gHfgqcStgeZ63Fi3H-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-14" value="Do you want water?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="-304" width="165" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-15" value="YES" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-14" target="SS2gHfgqcStgeZ63Fi3H-16">
+          <mxGeometry x="-0.0455" y="-17" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-108" y="-134" as="sourcePoint" />
+            <mxPoint x="-175" y="-234" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-16" value="Add 2x as much as espresso" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-378" y="-272" width="208" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-17" value="NO" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-14" target="SS2gHfgqcStgeZ63Fi3H-18">
+          <mxGeometry x="-0.4286" y="21" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-165" y="-155" as="sourcePoint" />
+            <mxPoint x="-43" y="-100" as="targetPoint" />
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-18" value="&amp;nbsp; &amp;nbsp; Do you want&amp;nbsp; &amp;nbsp; milk foam?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-134.25" y="-97" width="181.5" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-41" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-24" target="SS2gHfgqcStgeZ63Fi3H-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-24" value="Add 2x amount of milk and x amount of milk foam." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="126" width="171" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-25" value="YES" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-18" target="SS2gHfgqcStgeZ63Fi3H-24">
+          <mxGeometry x="-0.0145" y="-22" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49" y="236" as="sourcePoint" />
+            <mxPoint x="99" y="186" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-27" value="NO" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-18" target="SS2gHfgqcStgeZ63Fi3H-36">
+          <mxGeometry x="-0.5043" y="17" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="212" y="56" as="sourcePoint" />
+            <mxPoint x="262" y="6" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-31" value="Americano" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="-124" width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-35" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-33" target="SS2gHfgqcStgeZ63Fi3H-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-33" value="Add x amount of espresso" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-275.75" width="154" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-43" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="SS2gHfgqcStgeZ63Fi3H-36" target="SS2gHfgqcStgeZ63Fi3H-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-36" value="Add x amount of milk, x amount of chocolate and x amount of cream&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-74" width="227" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-40" value="Latte" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS2gHfgqcStgeZ63Fi3H-42" value="Mocha" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="139" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
